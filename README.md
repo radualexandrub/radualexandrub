@@ -26,6 +26,14 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-111111?style=flat-square&logo=adobe-lightroom-cc)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-111111?style=flat-square&logo=adobe-photoshop)
 
+### Check out:
+- My portfolio: [radubulai.com](https://radubulai.com/)
+- My blog: [CodingTranquillity](https://codingtranquillity.herokuapp.com/)
 
-
-### Contact
+### Social:
+<a href="mailto:radualexandrubulai@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="RaduAlexandruB" height="28" width="28" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/radu-alexandru-bulai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="radu-alexandru-bulai" height="28" width="28" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/radualexandrub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="radualexandrub" height="28" width="28" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/RaduAlexandruB" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="RaduAlexandruB" height="28" width="28" /></a>&nbsp;&nbsp;
+<a href="https://www.flickr.com/photos/radualexandru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flickr.svg" alt="RaduAlexandruB" height="28" width="28" /></a>&nbsp;&nbsp;
+<a href="https://www.mixcloud.com/radu-alexandru7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mixcloud.svg" alt="RaduAlexandru" height="28" width="28" /></a>&nbsp;&nbsp;
