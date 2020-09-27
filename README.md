@@ -26,11 +26,10 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-111111?style=flat-square&logo=adobe-lightroom-cc)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-111111?style=flat-square&logo=adobe-photoshop)
 
-### Check out:
+### Social:
 - My portfolio: [radubulai.com](https://radubulai.com/)
 - My blog: [CodingTranquillity](https://codingtranquillity.herokuapp.com/)
 
-### Social:
 <a href="https://www.linkedin.com/in/radu-alexandru-bulai/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="radu-alexandru-bulai" height="28" width="28" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/radualexandrub" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="radualexandrub" height="28" width="28" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/RaduAlexandruB" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="RaduAlexandruB" height="28" width="28" /></a>&nbsp;&nbsp;
