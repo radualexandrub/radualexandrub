@@ -6,7 +6,6 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
-<!-- ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B) -->
 ![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
