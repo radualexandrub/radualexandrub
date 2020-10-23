@@ -12,16 +12,14 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=flat&logo=latex)
 <br>
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat-square&logo=tensorflow)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
 <br>
 ![Sublime Text](https://img.shields.io/badge/-Sublime-111111?style=flat&logo=sublime-text)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-111111?style=flat-square&logo=jupyter)
-![Android Studio](https://img.shields.io/badge/-Android-111111?style=flat-square&logo=android)
+![Android SDK](https://img.shields.io/badge/-Android-111111?style=flat-square&logo=android)
 ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku)
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-111111?style=flat-square&logo=adobe-lightroom-cc)
