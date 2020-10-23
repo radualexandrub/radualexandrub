@@ -4,15 +4,17 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 
 ### Languages, Frameworks and Tools I use and I have worked with:
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
+<!-- ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B) -->
 ![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=flat&logo=latex)
 <br>
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=F05032)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
 <br>
