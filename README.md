@@ -12,22 +12,21 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=flat&logo=latex)
 <br>
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
+![Django](https://img.shields.io/badge/-Django-444444?style=flat&logo=django)
+![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
+![Keras](https://img.shields.io/badge/-Keras-444444?style=flat-square&logo=keras)
 <br>
-![Sublime Text](https://img.shields.io/badge/-Sublime-111111?style=flat&logo=sublime-text)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-111111?style=flat-square&logo=jupyter)
-![Android SDK](https://img.shields.io/badge/-Android-111111?style=flat-square&logo=android)
-![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku)
-![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-111111?style=flat-square&logo=adobe-lightroom-cc)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-111111?style=flat-square&logo=adobe-photoshop)
+![Sublime Text](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime-text)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=jupyter)
+![Android SDK](https://img.shields.io/badge/-Android-333333?style=flat-square&logo=android)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku)
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat-square&logo=adobe-lightroom-cc)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
 
 ### Social:
-***My portfolio:*** [radubulai.com](https://radubulai.com/)<br>
-***My blog:*** [CodingTranquillity](https://codingtranquillity.herokuapp.com/)
+***My portfolio & blog:*** [radubulai.com](https://radubulai.com/)<br>
 
 <a href="https://www.linkedin.com/in/radu-alexandru-bulai/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="radu-alexandru-bulai" height="28" width="28" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/radualexandrub" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="radualexandrub" height="28" width="28" /></a>&nbsp;&nbsp;
