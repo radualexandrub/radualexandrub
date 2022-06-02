@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Radu](https://radubulai.com/)!
+### Hi, I'm [Radu](https://radubulai.com/)!
 I'm passionate about ***Software***, ***Back-end***, ***Front-end*** and ***Applications Development***, as well as ***Machine Learning*** and ***Computer Vision***.
 When I'm learning or I'm starting a new project, I begin with the *big picture*, then I'm adding the *details*, so I can return professional and elegantly results!
 
