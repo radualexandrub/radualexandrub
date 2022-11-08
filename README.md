@@ -5,9 +5,7 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 
 ![Radu Alexandru B Stats](https://github-readme-stats.vercel.app/api?theme=prussian&username=radualexandrub)
 
-## Languages, Frameworks and Tools I use and I have worked with:
-
-Programming:<br/>
+Programming Languages:<br/>
 ![JavaScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-555555?style=flat&logo=java)
@@ -36,10 +34,9 @@ Frameworks & Tools:<br/>
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-333333?style=flat&logo=adobe-lightroom-cc)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-## Social:
+🌍 My portfolio: **[radubulai.com](https://radubulai.com/)**
 
-🌍 My portfolio & blog: **[radubulai.com](https://radubulai.com/)**<br>
-
+🥂 Social:<br/>
 <a href="https://www.linkedin.com/in/radu-alexandru-bulai/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
 <a href="https://dev.to/radualexandrub" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-2B627C?style=flat&logo=devdotto" alt="radualexandrub" /></a>
 <a href="https://www.hackerrank.com/RaduAlexandruB" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-3F6328?style=flat&logo=HackerRank" alt="RaduAlexandruB" /></a>
