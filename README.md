@@ -3,21 +3,13 @@
 I'm passionate about ***Software***, ***Back-end***, ***Front-end*** and ***Applications Development***, as well as ***Machine Learning*** and ***Computer Vision***.
 When I'm learning or I'm starting a new project, I begin with the *big picture*, then I'm adding the *details*, so I can return professional and elegantly results!
 
-![Radu Alexandru B Stats](https://github-readme-stats.vercel.app/api?theme=prussian&username=radualexandrub)
+![Radu Alexandru B Stats](https://github-readme-stats.vercel.app/api?theme=prussian&username=radualexandrub&show_icons=true&rank_icon=percentile&include_all_commits=true)
 
 Programming Languages:<br/>
 ![JavaScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-555555?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/PHP-555555?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=mysql)
-
-Markup & Styling:<br/>
-![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3)
-![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown)
-![LaTeX](https://img.shields.io/badge/LaTeX-555555?style=flat&logo=latex)
 
 Frameworks & Tools:<br/>
 ![Angular](https://img.shields.io/badge/Angular-444444?style=flat&logo=angular)
@@ -33,6 +25,12 @@ Frameworks & Tools:<br/>
 ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=figma)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-333333?style=flat&logo=adobe-lightroom-cc)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-333333?style=flat&logo=adobe-photoshop)
+
+Markup & Styling:<br/>
+![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3)
+![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown)
+![LaTeX](https://img.shields.io/badge/LaTeX-555555?style=flat&logo=latex)
 
 🌍 My portfolio: **[radubulai.com](https://radubulai.com/)**
 
