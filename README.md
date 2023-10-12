@@ -1,7 +1,7 @@
 ## Hi, I'm [Radu](https://radubulai.com/)!
 
-I'm passionate about ***Software***, ***Back-end***, ***Front-end*** and ***Applications Development***, as well as ***Machine Learning*** and ***Computer Vision***.
-When I'm learning or I'm starting a new project, I begin with the *big picture*, then I'm adding the *details*, so I can return professional and elegantly results!
+I'm passionate about ***Full-Stack Development***, ***Mobile Applications*** and ***Computer Vision***.<br/>
+When I'm learning or starting a new project, I begin with the *big picture*, and then add the *details*, so I can return professional and elegant results!
 
 ![Radu Alexandru B Stats](https://github-readme-stats.vercel.app/api?theme=prussian&username=radualexandrub&show_icons=true&rank_icon=percentile&include_all_commits=true)
 
@@ -38,3 +38,4 @@ Markup & Styling:<br/>
 <a href="https://www.linkedin.com/in/radu-alexandru-bulai/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
 <a href="https://dev.to/radualexandrub" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-2B627C?style=flat&logo=devdotto" alt="radualexandrub" /></a>
 <a href="https://www.hackerrank.com/RaduAlexandruB" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-3F6328?style=flat&logo=HackerRank" alt="RaduAlexandruB" /></a>
+<a href="https://leetcode.com/radualexandrub/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-644517?style=flat&logo=LeetCode" alt="RaduAlexandruB" /></a>
